@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Pronab Deb
 
 🚀 I'm a Web Developer | MERN Stack Enthusiast | Freelancer  
-💼 I specialize in: HTML, CSS, Bootstrap, JavaScript, jQuery, React, Node.js, MongoDB  
+💼 I specialize in: HTML, CSS,Tailwind,DaisyUi, Bootstrap, JavaScript, jQuery, React
 
 ---
 
@@ -11,8 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+
 
 ---
 
