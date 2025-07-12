@@ -17,8 +17,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pronhub&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pronhub&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pronab69&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pronab69&layout=compact)
 
 ---
 
