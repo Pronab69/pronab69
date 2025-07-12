@@ -10,6 +10,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)
+![Tailwind Css](https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.830c8e49.svg)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 
 
