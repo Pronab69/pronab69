@@ -21,6 +21,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pronab69&layout=compact)
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=pronab69)
 
 ## 📫 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
